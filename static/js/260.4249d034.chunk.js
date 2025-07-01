@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbookmanager_frontend=self.webpackChunkbookmanager_frontend||[]).push([[260],{260:(e,n,a)=>{a.r(n),a.d(n,{default:()=>o});var r=a(579);const o=()=>(0,r.jsx)("h2",{children:"\uace0\uac1d\uc13c\ud130"})}}]);
+//# sourceMappingURL=260.4249d034.chunk.js.map

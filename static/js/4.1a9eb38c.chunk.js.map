@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/4.1a9eb38c.chunk.js","mappings":"mKAAA,MAIA,EAJoBA,KACXC,EAAAA,EAAAA,KAAA,MAAAC,SAAI,4B","sources":["pages/RentalState.jsx"],"sourcesContent":["const RentalState = () => {\r\n  return <h2>대여현황</h2>\r\n}\r\n\r\nexport default RentalState\r\n"],"names":["RentalState","_jsx","children"],"sourceRoot":""}
