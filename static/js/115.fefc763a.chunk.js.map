@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/115.fefc763a.chunk.js","mappings":"qKAAA,MAIA,EAJiBA,KACRC,EAAAA,EAAAA,KAAA,MAAAC,SAAI,4B","sources":["pages/WishBook.jsx"],"sourcesContent":["const WishBook = () => {\r\n  return <h2>희망도서</h2>\r\n}\r\n\r\nexport default WishBook\r\n"],"names":["WishBook","_jsx","children"],"sourceRoot":""}

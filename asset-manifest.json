@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.js": "/bookmanager-frontend/static/js/main.44959f31.js",
+    "main.js": "/bookmanager-frontend/static/js/main.583d463b.js",
     "static/js/6.581f1a13.chunk.js": "/bookmanager-frontend/static/js/6.581f1a13.chunk.js",
     "static/js/440.d6acceb7.chunk.js": "/bookmanager-frontend/static/js/440.d6acceb7.chunk.js",
-    "static/js/553.ea43be9f.chunk.js": "/bookmanager-frontend/static/js/553.ea43be9f.chunk.js",
-    "static/js/4.1a9eb38c.chunk.js": "/bookmanager-frontend/static/js/4.1a9eb38c.chunk.js",
-    "static/js/115.fefc763a.chunk.js": "/bookmanager-frontend/static/js/115.fefc763a.chunk.js",
-    "static/js/260.4249d034.chunk.js": "/bookmanager-frontend/static/js/260.4249d034.chunk.js",
+    "static/js/553.8b1d4aac.chunk.js": "/bookmanager-frontend/static/js/553.8b1d4aac.chunk.js",
+    "static/js/44.31c57f6f.chunk.js": "/bookmanager-frontend/static/js/44.31c57f6f.chunk.js",
+    "static/js/174.3973045d.chunk.js": "/bookmanager-frontend/static/js/174.3973045d.chunk.js",
+    "static/js/773.7081e85a.chunk.js": "/bookmanager-frontend/static/js/773.7081e85a.chunk.js",
     "static/js/522.b4131adb.chunk.js": "/bookmanager-frontend/static/js/522.b4131adb.chunk.js",
     "static/js/14.d384aa1c.chunk.js": "/bookmanager-frontend/static/js/14.d384aa1c.chunk.js",
-    "static/js/44.114c587f.chunk.js": "/bookmanager-frontend/static/js/44.114c587f.chunk.js",
+    "static/js/663.e02010a2.chunk.js": "/bookmanager-frontend/static/js/663.e02010a2.chunk.js",
     "static/js/480.56b61ee9.chunk.js": "/bookmanager-frontend/static/js/480.56b61ee9.chunk.js",
-    "static/js/550.bc6df2ce.chunk.js": "/bookmanager-frontend/static/js/550.bc6df2ce.chunk.js",
+    "static/js/550.41f9dc2a.chunk.js": "/bookmanager-frontend/static/js/550.41f9dc2a.chunk.js",
     "index.html": "/bookmanager-frontend/index.html",
-    "main.44959f31.js.map": "/bookmanager-frontend/static/js/main.44959f31.js.map",
+    "main.583d463b.js.map": "/bookmanager-frontend/static/js/main.583d463b.js.map",
     "6.581f1a13.chunk.js.map": "/bookmanager-frontend/static/js/6.581f1a13.chunk.js.map",
     "440.d6acceb7.chunk.js.map": "/bookmanager-frontend/static/js/440.d6acceb7.chunk.js.map",
-    "553.ea43be9f.chunk.js.map": "/bookmanager-frontend/static/js/553.ea43be9f.chunk.js.map",
-    "4.1a9eb38c.chunk.js.map": "/bookmanager-frontend/static/js/4.1a9eb38c.chunk.js.map",
-    "115.fefc763a.chunk.js.map": "/bookmanager-frontend/static/js/115.fefc763a.chunk.js.map",
-    "260.4249d034.chunk.js.map": "/bookmanager-frontend/static/js/260.4249d034.chunk.js.map",
+    "553.8b1d4aac.chunk.js.map": "/bookmanager-frontend/static/js/553.8b1d4aac.chunk.js.map",
+    "44.31c57f6f.chunk.js.map": "/bookmanager-frontend/static/js/44.31c57f6f.chunk.js.map",
+    "174.3973045d.chunk.js.map": "/bookmanager-frontend/static/js/174.3973045d.chunk.js.map",
+    "773.7081e85a.chunk.js.map": "/bookmanager-frontend/static/js/773.7081e85a.chunk.js.map",
     "522.b4131adb.chunk.js.map": "/bookmanager-frontend/static/js/522.b4131adb.chunk.js.map",
     "14.d384aa1c.chunk.js.map": "/bookmanager-frontend/static/js/14.d384aa1c.chunk.js.map",
-    "44.114c587f.chunk.js.map": "/bookmanager-frontend/static/js/44.114c587f.chunk.js.map",
+    "663.e02010a2.chunk.js.map": "/bookmanager-frontend/static/js/663.e02010a2.chunk.js.map",
     "480.56b61ee9.chunk.js.map": "/bookmanager-frontend/static/js/480.56b61ee9.chunk.js.map",
-    "550.bc6df2ce.chunk.js.map": "/bookmanager-frontend/static/js/550.bc6df2ce.chunk.js.map"
+    "550.41f9dc2a.chunk.js.map": "/bookmanager-frontend/static/js/550.41f9dc2a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.44959f31.js"
+    "static/js/main.583d463b.js"
   ]
 }
