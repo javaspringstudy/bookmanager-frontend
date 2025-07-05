@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkbookmanager_frontend=self.webpackChunkbookmanager_frontend||[]).push([[44],{44:(e,n,r)=>{r.r(n),r.d(n,{default:()=>o});var t=r(65),a=r(579);const o=()=>{const e=(0,t.Zp)();return setTimeout(()=>{e("/",{replace:!0})},3e3),(0,a.jsx)("h2",{children:"\uc694\uccad\ud558\uc2e0 \ud398\uc774\uc9c0\ub97c \ucc3e\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4."})}}}]);
-//# sourceMappingURL=44.114c587f.chunk.js.map
