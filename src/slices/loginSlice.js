@@ -27,7 +27,7 @@ const loadMemberStorage = () => {
 
 const loginSlice = createSlice({
   name: 'LoginSlice',
-  initialState: loadMemberStorage() || initState, //쿠키가 없다면 초깃값사용
+  initialState: loadMemberStorage() || initState, //로컬스토리지가 없다면 초깃값사용
   reducers: {
     login: (state, action) => {
       //새로운 상태

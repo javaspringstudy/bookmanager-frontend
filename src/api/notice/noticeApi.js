@@ -11,7 +11,7 @@ export const noticeList = async () => {
       headers: {
         Authorization: `Bearer ${token}`,
       },
-      withCredentials: true, // 쿠키도 같이 전송하려면 필요
+      withCredentials: true, // 토큰도 같이 전송하려면 필요
     })
     return res.data
   } catch (err) {

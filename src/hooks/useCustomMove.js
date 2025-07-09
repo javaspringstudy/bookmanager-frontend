@@ -12,7 +12,7 @@ const useCustomMove = () => {
     return parseInt(strNum)
   }
 
-  const [searchParam, setSearchParam] = useSearchParams()
+  const [searchParam] = useSearchParams()
   const page = getNum(searchParam.get('page'), 1)
   const size = getNum(searchParam.get('size'), 10)
 
@@ -22,7 +22,7 @@ const useCustomMove = () => {
   let queryString = ''
 
   //현재페이지번호를 클릭해도 서버에 데이터를 요청하기 위한 상태변수
-  const [refresh, setRefresh] = useState(false)
+  const [setRefresh] = useState(false)
 
   const moveToList = (pageParam) => {
     if (pageParam) {
